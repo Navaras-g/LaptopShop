@@ -1,0 +1,13 @@
+===================== Order Bill =========================
+Name of the laptop: Macbook Pro 16
+Name of the distributor: shshhhhh
+Name of the company:   Apple
+Purchase Date and Time: 2023-07-28 08:57:03
+----------------------------------------------------------
+Net Amount: $10500.00
+VAT Amount: $1365.00
+----------------------------------------------------------
+Amount after VAT: $11865.00
+----------------------------------------------------------
+Thank you for your order!
+==========================================================

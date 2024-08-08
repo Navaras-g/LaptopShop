@@ -1,0 +1,13 @@
+====================== Sales Bill ========================
+Name of the Laptop Sold: XPS
+Company Name:   Dell
+Customer Name: Navaras Shrestha
+Purchase Date and Time: 2023-07-28 09:09:47
+----------------------------------------------------------
+Total Amount (without shipping): $5928.00
+Shipping Cost: $50.00
+----------------------------------------------------------
+Total Amount (with shipping): $5978.00
+----------------------------------------------------------
+Thank you for your purchase!
+==========================================================

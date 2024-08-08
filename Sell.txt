@@ -1,0 +1,13 @@
+====================== Sales Bill ========================
+Name of the Laptop Sold: Envy 15
+Company Name:   HP
+Customer Name: Navaras Shrestha
+Purchase Date and Time: 2023-07-28 08:11:30
+----------------------------------------------------------
+Total Amount (without shipping): $2800.00
+Shipping Cost: $50.00
+----------------------------------------------------------
+Total Amount (with shipping): $2850.00
+----------------------------------------------------------
+Thank you for your purchase!
+==========================================================

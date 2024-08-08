@@ -1,0 +1,7 @@
+Razer Blade,  Razer,  2000,16,   i7 7th Gen,   RTX 3060
+XPS,  Dell,  1976,20,   i5 9th Gen,   RTX 3070
+Alienware,  Alienware,  1978,14,   i5 9th Gen,   RTX 3070
+Swift 7,  Acer,  900,18,   i5 9th Gen,   RTX 3070
+Macbook Pro 16,  Apple,  3500,15,   i5 9th Gen,   RTX 3070
+Envy 15,  HP,  1400,16,   i7 11th Gen,   RTX 3060
+Legion 7,  Lenovo,  1800,15,   i7 12th Gen,   RTX 4060
